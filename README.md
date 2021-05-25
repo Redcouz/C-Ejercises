@@ -1,2 +1,2 @@
-# C-Ejercises
-Ejercises
+# C-Exercises
+Exercises
