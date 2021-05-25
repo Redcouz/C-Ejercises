@@ -1,2 +1,2 @@
 # C#-Exercises
-Exercises
+Some C# Exercises.
